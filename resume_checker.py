@@ -7,8 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1kw3ksRaaZQuW33o9GBnrm7RgU-Skl1Zj
 """
 
-!pip install gradio pdf2image pytesseract nltk matplotlib PyMuPDF
-!apt-get install -y poppler-utils
+
 
 import gradio as gr
 import fitz
